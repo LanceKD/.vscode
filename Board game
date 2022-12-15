@@ -8,15 +8,15 @@
 <body>
     <table border="2" width="1000" height="1000" > 
     <tr>
-    <td bgcolor="red"></td>
-    <td bgcolor="red"></td>
-    <td colspan="2" rowspan="2"></td>  
-    <td><img src="pole.JPG" height="95%" width="100%"></td>
-    <td><img src="pole.JPG" height="95%" width="100%"></td>
-    <td><img src="start.JPG" height="95%" width="100%"></td>
-    <td colspan="2" rowspan="2"></td> 
-    <td bgcolor="blue"></td>
-    <td bgcolor="blue"></td>
+        <td bgcolor="red"></td>
+        <td bgcolor="red"></td>
+        <td colspan="2" rowspan="2"></td>  
+        <td><img src="pole.JPG" height="95%" width="100%"></td>
+        <td><img src="pole.JPG" height="95%" width="100%"></td>
+        <td><img src="start.JPG" height="95%" width="100%"></td>
+        <td colspan="2" rowspan="2"></td> 
+        <td bgcolor="blue"></td>
+        <td bgcolor="blue"></td>
     </tr>                      
     <tr>
         <td bgcolor="red"></td>
@@ -57,17 +57,17 @@
         <td><img src="pole.JPG" height="95%" width="100%"></td>
     </tr>
     <tr>
-    <td><img src="pole.JPG" height="95%" width="100%"></td>
-    <td bgcolor="red"></td>
-    <td bgcolor="red"></td>
-    <td bgcolor="red"></td>
-    <td bgcolor="red"></td>
-    <td bgcolor="white"></td>
-    <td bgcolor="lime"></td>
-    <td bgcolor="lime"></td>
-    <td bgcolor="lime"></td>
-    <td bgcolor="lime"></td>
-    <td><img src="pole.JPG" height="95%" width="100%"></td>
+        <td><img src="pole.JPG" height="95%" width="100%"></td>
+        <td bgcolor="red"></td>
+        <td bgcolor="red"></td>
+        <td bgcolor="red"></td>
+        <td bgcolor="red"></td>
+        <td bgcolor="white"></td>
+        <td bgcolor="lime"></td>
+        <td bgcolor="lime"></td>
+        <td bgcolor="lime"></td>
+        <td bgcolor="lime"></td>
+        <td><img src="pole.JPG" height="95%" width="100%"></td>
     </tr>
     <tr>
         <td><img src="pole.JPG" height="95%" width="100%"></td>
